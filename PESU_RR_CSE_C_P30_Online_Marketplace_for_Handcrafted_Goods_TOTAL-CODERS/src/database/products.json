@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Handmade Wooden Bowl",
+    "price": 450,
+    "category": "Home Decor",
+    "stock": 20,
+    "description": "Beautifully crafted wooden bowl made by local artisans."
+  },
+  {
+    "name": "Macrame Wall Hanging",
+    "price": 850,
+    "category": "Decor",
+    "stock": 15,
+    "description": "Elegant wall hanging for home interiors."
+  }
+]

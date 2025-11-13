@@ -1,0 +1,14 @@
+[
+  {
+    "user": "chethan@example.com",
+    "product": "Handmade Wooden Bowl",
+    "quantity": 2,
+    "total": 900
+  },
+  {
+    "user": "ayush@example.com",
+    "product": "Macrame Wall Hanging",
+    "quantity": 1,
+    "total": 850
+  }
+]
